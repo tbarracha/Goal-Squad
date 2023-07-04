@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 155c87c55de2ed44ea3de4348d88c8ec, type: 3}
+  m_Name: Audio List Win
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 500feb823703b53448613d855be4757b, type: 3}
+  - {fileID: 8300000, guid: d241b636b431ddc41a0c14ea2a1b7967, type: 3}
+  - {fileID: 8300000, guid: 838eac72023e27245a2eef5fd7da16c4, type: 3}
+  minPitch: 1
+  maxPitch: 1.2

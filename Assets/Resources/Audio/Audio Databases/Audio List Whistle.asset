@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 155c87c55de2ed44ea3de4348d88c8ec, type: 3}
+  m_Name: Audio List Whistle
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: a2dfd085757b79c4492552cadb2a7694, type: 3}
+  - {fileID: 8300000, guid: aa79d53a4ae6489499edee596f90dc04, type: 3}
+  - {fileID: 8300000, guid: f5c36325d732e264c90558ea825b7541, type: 3}
+  minPitch: 1
+  maxPitch: 1.2

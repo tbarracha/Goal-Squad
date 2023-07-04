@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 155c87c55de2ed44ea3de4348d88c8ec, type: 3}
+  m_Name: Audio List Pass
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 012a98cce1b279b42aa612d5fff8104a, type: 3}
+  - {fileID: 8300000, guid: 328e5259d5d738649a71626aeae61ced, type: 3}
+  - {fileID: 8300000, guid: 4fe829ab58067754684cadb4ccf066b2, type: 3}
+  - {fileID: 8300000, guid: 94f7884100d571c4abd97b4da25d3d84, type: 3}
+  - {fileID: 8300000, guid: 064e9ded8e613c741ab58ed2d95c8125, type: 3}
+  - {fileID: 8300000, guid: 9b37de8a760ff86459767d73ad25ab04, type: 3}
+  minPitch: 1
+  maxPitch: 1.2
